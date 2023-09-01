@@ -17,15 +17,19 @@ The URL is provided for your use.
 Lastly, details about the employees’ travel stipend
 exist in their database.
 
-## Dataset
+## Dataset (From multiple sources API, CSV, JSON)
 
-Travels Dataset - 
+Travels Dataset - CSV
+Demography Dataset - API and JSON
+
 
 ## Tools
 - Python
 - Pandas
-
+- PgAdmin
+- Git Version Control 
 
 ## Steps
 - Extract dataset
 - Clean dataset
+- Extracted Business Solutions
